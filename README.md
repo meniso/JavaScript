@@ -1,2 +1,0 @@
-# JavaScript
-Introdução ao JavaScript
